@@ -12,4 +12,10 @@ eureka:
   client:
     fetch-registry: false
     register-with-eureka: false
+security:
+  basic:
+    enabled: true # 开启basic认证
+  user:
+    name: ly
+    password: 123
 

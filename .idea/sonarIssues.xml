@@ -43,6 +43,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/listener/UserListener.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/consumer-movie/src/main/resources/application.properties">
           <value>
             <set />
@@ -118,6 +123,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/discovery-eureka/src/main/resources/logback.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/duscovery-eureka/pom.xml">
           <value>
             <set />
@@ -169,6 +179,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/util/MqMessageUtil.java">
           <value>
             <set />
           </value>
