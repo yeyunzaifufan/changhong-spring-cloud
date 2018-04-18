@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/discovery-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/provider-user/pom.xml" />
         <option value="$PROJECT_DIR$/consumer-movie/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery-eureka-jq/pom.xml" />
       </list>
     </option>
   </component>
