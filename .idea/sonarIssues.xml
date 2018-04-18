@@ -23,7 +23,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/base/Feign.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/config/FeignConfig.java">
           <value>
             <set />
           </value>
@@ -39,6 +49,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/controller/MovieController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/feign/FeignConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/feign/ProviderUserFeign.java">
           <value>
             <set />
           </value>

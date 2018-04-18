@@ -1,5 +1,6 @@
 package com.ly.consumermovie.controller;
 
+import com.ly.consumermovie.feign.ProviderUserFeign;
 import com.ly.consumermovie.responsemodel.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -24,9 +25,13 @@ public class MovieController {
     @Autowired
     private LoadBalancerClient loadBalancerClient;
 
+    @Autowired
+    private ProviderUserFeign providerUserFeign;
+
     @GetMapping("/user/{id}")
     public User findById(@PathVariable Long id){
-        return this.restTemplate.getForObject("http://provider-user/user/" + id, User.class);
+        //return this.restTemplate.getForObject("http://provider-user/user/" + id, User.class);
+        return providerUserFeign.findUserById(id);
     }
 
     @GetMapping("/log-instance")
