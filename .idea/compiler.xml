@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="consumer-movie" />
         <module name="discovery-eureka" />
+        <module name="provider-user" />
         <module name="simple-consumer-movie" />
         <module name="simple-provider-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="changhong-spring-cloud" target="1.5" />
+      <module name="consumer-movie" target="1.8" />
       <module name="discovery-eureka" target="1.8" />
+      <module name="provider-user" target="1.8" />
       <module name="simple-consumer-movie" target="1.8" />
       <module name="simple-provider-user" target="1.8" />
     </bytecodeTargetLevel>

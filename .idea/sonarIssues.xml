@@ -13,6 +13,46 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/ConsumerMovieApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/config/MyBatisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/config/MyBatisMapperScannerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/java/com/ly/consumermovie/controller/MovieController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/consumer-movie/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/discovery-eureka/pom.xml">
           <value>
             <set />
@@ -29,6 +69,66 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/ProviderUserApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/config/MyBatisConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/config/MyBatisMapperScannerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/controller/UserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/dao/UserDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/provideruser/model/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/java/com/ly/simpleprovideruser/config/DataSourceConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/provider-user/src/main/resources/mapper/UserDao.xml">
           <value>
             <set />
           </value>

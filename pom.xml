@@ -12,6 +12,7 @@
 		<module>simple-provider-user</module>
 		<module>simple-consumer-movie</module>
 		<module>discovery-eureka</module>
+		<module>consumer-movie</module>
 	</modules>
 
 </project>

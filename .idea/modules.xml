@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/changhong-spring-cloud.iml" filepath="$PROJECT_DIR$/changhong-spring-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-movie/consumer-movie.iml" filepath="$PROJECT_DIR$/consumer-movie/consumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery-eureka/discovery-eureka.iml" filepath="$PROJECT_DIR$/discovery-eureka/discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-user/provider-user.iml" filepath="$PROJECT_DIR$/provider-user/provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-consumer-movie/simple-consumer-movie.iml" filepath="$PROJECT_DIR$/simple-consumer-movie/simple-consumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/simple-provider-user/simple-provider-user.iml" filepath="$PROJECT_DIR$/simple-provider-user/simple-provider-user.iml" />
     </modules>
