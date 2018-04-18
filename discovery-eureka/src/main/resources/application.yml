@@ -1,8 +1,15 @@
+
+spring:
+  application:
+    name: 'discovery-eureka'
+
 server:
-  port: 8761
+  port: 8762
+
 eureka:
+#  instance:
+#    hostname: localhost
   client:
-    registerWithEureka: false #是否注册到 Eureka Server
-    fetchRegistry: false #是否从 Eureka Server 获取注册信息
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/ #与Eureka Server 交互的地址，查询服务和注册服务依赖该地址，多个地址可用，分隔
+    fetch-registry: false
+    register-with-eureka: false
+
