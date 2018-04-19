@@ -10,6 +10,8 @@
         <module name="discovery-eureka" />
         <module name="discovery-eureka-jq" />
         <module name="duscovery-eureka" />
+        <module name="gateway-zuul" />
+        <module name="hystrix-dashboard" />
         <module name="provider-user" />
       </profile>
     </annotationProcessing>
@@ -20,6 +22,8 @@
       <module name="discovery-eureka-cluster" target="1.8" />
       <module name="discovery-eureka-jq" target="1.8" />
       <module name="duscovery-eureka" target="1.8" />
+      <module name="gateway-zuul" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
       <module name="provider-user" target="1.8" />
       <module name="simple-consumer-movie" target="1.8" />
       <module name="simple-provider-user" target="1.8" />

@@ -158,6 +158,51 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/gateway-zuul/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gateway-zuul/src/main/java/com/ly/gatewayzuul/GatewayZuulApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gateway-zuul/src/main/java/com/ly/gatewayzuul/fallback/ProviderUserFallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gateway-zuul/src/main/java/com/ly/gatewayzuul/filter/PreRequestLogFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gateway-zuul/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hystrix-dashboard/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hystrix-dashboard/src/main/java/com/ly/hystrixdashboard/HystrixDashboardApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hystrix-dashboard/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />

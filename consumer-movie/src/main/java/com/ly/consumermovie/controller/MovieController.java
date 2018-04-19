@@ -1,5 +1,6 @@
 package com.ly.consumermovie.controller;
 
+import com.alibaba.fastjson.JSON;
 import com.ly.consumermovie.feign.ProviderUserFeign;
 import com.ly.consumermovie.responsemodel.User;
 import org.slf4j.Logger;
@@ -31,7 +32,9 @@ public class MovieController {
     @GetMapping("/user/{id}")
     public User findById(@PathVariable Long id){
         //return this.restTemplate.getForObject("http://provider-user/user/" + id, User.class);
-        return providerUserFeign.findUserById(id);
+        User user = providerUserFeign.findUserById(id);
+        logger.info("---------调用provider-user服务成功：【{}】-----------", JSON.toJSONString(user));
+        return user;
     }
 
     @GetMapping("/log-instance")

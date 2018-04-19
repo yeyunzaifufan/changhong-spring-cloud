@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/changhong-spring-cloud.iml" filepath="$PROJECT_DIR$/changhong-spring-cloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/consumer-movie/consumer-movie.iml" filepath="$PROJECT_DIR$/consumer-movie/consumer-movie.iml" />
       <module fileurl="file://$PROJECT_DIR$/discovery-eureka/discovery-eureka.iml" filepath="$PROJECT_DIR$/discovery-eureka/discovery-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-zuul/gateway-zuul.iml" filepath="$PROJECT_DIR$/gateway-zuul/gateway-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/provider-user/provider-user.iml" filepath="$PROJECT_DIR$/provider-user/provider-user.iml" />
     </modules>
   </component>

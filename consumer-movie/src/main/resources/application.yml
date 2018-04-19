@@ -20,6 +20,3 @@ eureka:
       defaultZone: http://ly:123@peer1:8761/eureka/,http://ly:123@peer2:8762/eureka/
   instance:
     prefer-ip-address: true
-provider-user: # 使用属性自定义Ribbon
-  ribbon:
-    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

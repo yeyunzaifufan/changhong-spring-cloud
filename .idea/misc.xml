@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/consumer-movie/pom.xml" />
         <option value="$PROJECT_DIR$/discovery-eureka-jq/pom.xml" />
         <option value="$PROJECT_DIR$/discovery-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/hystrix-dashboard/pom.xml" />
       </list>
     </option>
   </component>
