@@ -13,6 +13,7 @@
 		<module>provider-user</module>
 		<module>discovery-eureka</module>
 		<module>gateway-zuul</module>
+		<module>hystrix-dashboard</module>
 	</modules>
 
 </project>
